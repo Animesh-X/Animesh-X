@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">I'm a passionate software developer who loves turning caffeine into code ☕💻. Whether it’s building cool web apps or tinkering with new tech, I’m always up for a good coding challenge!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh-x&label=Profile%20views&color=0e75b6&style=flat" alt="animesh-x" /> </p>
 
