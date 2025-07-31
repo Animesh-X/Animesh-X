@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh-x&label=Profile%20views&color=0e75b6&style=flat" alt="animesh-x" /> </p>
 
-- 📫 How to reach me **animeshkumar0715@gmail.com**
+- 📫 Reach me at **animeshkumar0715@gmail.com**
+- 📄 Resume: <a href = "https://drive.google.com/file/d/1OJp8MqycTop7UqV6cwkl1_zCo6bjLmW4/view?usp=sharing" target="blank">Animesh's Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
